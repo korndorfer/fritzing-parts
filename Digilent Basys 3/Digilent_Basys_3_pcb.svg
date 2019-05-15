@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="6.2777786in"
+   height="3.6888895in"
+   viewBox="0 0 452.00049 265.60005"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="basys3-pcb.svg">
+  <metadata
+     id="metadata139">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs137" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview135"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.4619467"
+     inkscape:cx="282.50004"
+     inkscape:cy="166.00003"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g4658">
+    <g
+       id="copper0">
+      <g
+         id="g4559">
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle80"
+           r="2.0880001"
+           cx="-105.24181"
+           gorn="0.2.0.14"
+           cy="24.090466"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle82"
+           r="2.0880001"
+           cx="-98.042809"
+           gorn="0.2.0.15"
+           cy="24.090466"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle84"
+           r="2.089"
+           cx="-90.842812"
+           gorn="0.2.0.16"
+           cy="24.090466"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle86"
+           r="2.0880001"
+           cx="-83.642807"
+           gorn="0.2.0.17"
+           cy="24.090466"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle88"
+           r="2.0880001"
+           cx="-76.443817"
+           gorn="0.2.0.18"
+           cy="24.090466"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle90"
+           r="2.0880001"
+           cx="-69.241821"
+           gorn="0.2.0.19"
+           cy="24.090466"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle92"
+           r="2.0880001"
+           cx="-69.241821"
+           gorn="0.2.0.20"
+           cy="16.891441"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle94"
+           r="2.0880001"
+           cx="-76.443817"
+           gorn="0.2.0.21"
+           cy="16.891441"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle96"
+           r="2.0880001"
+           cx="-83.642807"
+           gorn="0.2.0.22"
+           cy="16.891441"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle98"
+           r="2.089"
+           cx="-90.842812"
+           gorn="0.2.0.23"
+           cy="16.891441"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle100"
+           r="2.0880001"
+           cx="-98.042809"
+           gorn="0.2.0.24"
+           cy="16.891441"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle102"
+           r="2.0880001"
+           cx="-105.24181"
+           gorn="0.2.0.25"
+           cy="16.891441"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+      </g>
+      <g
+         id="g4541">
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="24.090466"
+           gorn="0.2.0.14"
+           cx="-169.24187"
+           r="2.0880001"
+           id="circle4409"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="24.090466"
+           gorn="0.2.0.15"
+           cx="-162.04288"
+           r="2.0880001"
+           id="circle4411"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="24.090466"
+           gorn="0.2.0.16"
+           cx="-154.84288"
+           r="2.089"
+           id="circle4413"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="24.090466"
+           gorn="0.2.0.17"
+           cx="-147.64287"
+           r="2.0880001"
+           id="circle4415"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="24.090466"
+           gorn="0.2.0.18"
+           cx="-140.44388"
+           r="2.0880001"
+           id="circle4417"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="24.090466"
+           gorn="0.2.0.19"
+           cx="-133.24188"
+           r="2.0880001"
+           id="circle4419"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="16.891441"
+           gorn="0.2.0.20"
+           cx="-133.24188"
+           r="2.0880001"
+           id="circle4421"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="16.891441"
+           gorn="0.2.0.21"
+           cx="-140.44388"
+           r="2.0880001"
+           id="circle4423"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="16.891441"
+           gorn="0.2.0.22"
+           cx="-147.64287"
+           r="2.0880001"
+           id="circle4425"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="16.891441"
+           gorn="0.2.0.23"
+           cx="-154.84288"
+           r="2.089"
+           id="circle4427"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="16.891441"
+           gorn="0.2.0.24"
+           cx="-162.04288"
+           r="2.0880001"
+           id="circle4429"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="16.891441"
+           gorn="0.2.0.25"
+           cx="-169.24187"
+           r="2.0880001"
+           id="circle4431"
+           transform="matrix(0,-1,1,0,0,0)" />
+      </g>
+      <g
+         id="g4573">
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="435.29102"
+           gorn="0.2.0.14"
+           cx="-105.24181"
+           r="2.0880001"
+           id="circle4433"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="435.29102"
+           gorn="0.2.0.15"
+           cx="-98.042809"
+           r="2.0880001"
+           id="circle4435"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="435.29102"
+           gorn="0.2.0.16"
+           cx="-90.842812"
+           r="2.089"
+           id="circle4437"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="435.29102"
+           gorn="0.2.0.17"
+           cx="-83.642807"
+           r="2.0880001"
+           id="circle4439"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="435.29102"
+           gorn="0.2.0.18"
+           cx="-76.443817"
+           r="2.0880001"
+           id="circle4441"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="435.29102"
+           gorn="0.2.0.19"
+           cx="-69.241821"
+           r="2.0880001"
+           id="circle4443"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="428.09198"
+           gorn="0.2.0.20"
+           cx="-69.241821"
+           r="2.0880001"
+           id="circle4445"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="428.09198"
+           gorn="0.2.0.21"
+           cx="-76.443817"
+           r="2.0880001"
+           id="circle4447"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="428.09198"
+           gorn="0.2.0.22"
+           cx="-83.642807"
+           r="2.0880001"
+           id="circle4449"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="428.09198"
+           gorn="0.2.0.23"
+           cx="-90.842812"
+           r="2.089"
+           id="circle4451"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="428.09198"
+           gorn="0.2.0.24"
+           cx="-98.042809"
+           r="2.0880001"
+           id="circle4453"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="428.09198"
+           gorn="0.2.0.25"
+           cx="-105.24181"
+           r="2.0880001"
+           id="circle4455"
+           transform="matrix(0,-1,1,0,0,0)" />
+      </g>
+      <g
+         id="g4587">
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle4457"
+           r="2.0880001"
+           cx="-169.24187"
+           gorn="0.2.0.14"
+           cy="435.29102"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle4459"
+           r="2.0880001"
+           cx="-162.04288"
+           gorn="0.2.0.15"
+           cy="435.29102"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle4461"
+           r="2.089"
+           cx="-154.84288"
+           gorn="0.2.0.16"
+           cy="435.29102"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle4463"
+           r="2.0880001"
+           cx="-147.64287"
+           gorn="0.2.0.17"
+           cy="435.29102"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle4465"
+           r="2.0880001"
+           cx="-140.44388"
+           gorn="0.2.0.18"
+           cy="435.29102"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle4467"
+           r="2.0880001"
+           cx="-133.24188"
+           gorn="0.2.0.19"
+           cy="435.29102"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle4469"
+           r="2.0880001"
+           cx="-133.24188"
+           gorn="0.2.0.20"
+           cy="428.09198"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle4471"
+           r="2.0880001"
+           cx="-140.44388"
+           gorn="0.2.0.21"
+           cy="428.09198"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle4473"
+           r="2.0880001"
+           cx="-147.64287"
+           gorn="0.2.0.22"
+           cy="428.09198"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle4475"
+           r="2.089"
+           cx="-154.84288"
+           gorn="0.2.0.23"
+           cy="428.09198"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle4477"
+           r="2.0880001"
+           cx="-162.04288"
+           gorn="0.2.0.24"
+           cy="428.09198"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+        <circle
+           transform="matrix(0,-1,1,0,0,0)"
+           id="circle4479"
+           r="2.0880001"
+           cx="-169.24187"
+           gorn="0.2.0.25"
+           cy="428.09198"
+           stroke-width="0,9999990075180507"
+           style="fill:none;stroke:#ffbf00" />
+      </g>
+      <g
+         id="g4555">
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="24.090466"
+           gorn="0.2.0.18"
+           cx="-42.843765"
+           r="2.0880001"
+           id="circle4481"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <circle
+           style="fill:none;stroke:#ffbf00"
+           stroke-width="0,9999990075180507"
+           cy="24.090466"
+           gorn="0.2.0.19"
+           cx="-35.641781"
+           r="2.0880001"
+           id="circle4483"
+           transform="matrix(0,-1,1,0,0,0)" />
+      </g>
+    </g>
+    <path
+       transform="matrix(0.80000076,0,0,0.80000076,0,-1.3427747e-4)"
+       id="silkscreen"
+       d="M 20.710938 0.828125 C 9.7758412 0.828125 0.828125 8.7922707 0.828125 18.525391 L 0.828125 313.47656 C 0.828125 323.21177 9.7758647 331.17383 20.710938 331.17383 L 544.29102 331.17383 C 555.22846 331.17383 564.17383 323.21177 564.17383 313.47656 L 564.17383 18.525391 C 564.17383 8.7922707 555.22846 0.828125 544.29102 0.828125 L 20.710938 0.828125 z M 22.738281 12.681641 A 8.8707744 8.8707744 0 0 1 28.744141 15.347656 L 29.033203 15.658203 A 8.8707744 8.8707744 0 0 1 28.367188 28.109375 A 8.8707744 8.8707744 0 0 1 15.908203 27.591797 A 8.8707744 8.8707744 0 0 1 16.277344 15.126953 A 8.8707744 8.8707744 0 0 1 22.738281 12.681641 z M 543.42188 12.681641 A 8.8707744 8.8707744 0 0 1 549.42773 15.347656 L 549.7168 15.658203 A 8.8707744 8.8707744 0 0 1 549.05078 28.109375 A 8.8707744 8.8707744 0 0 1 536.5918 27.591797 A 8.8707744 8.8707744 0 0 1 536.95898 15.126953 A 8.8707744 8.8707744 0 0 1 543.42188 12.681641 z M 22.738281 300.68164 A 8.8707744 8.8707744 0 0 1 28.744141 303.34766 L 29.033203 303.6582 A 8.8707744 8.8707744 0 0 1 28.367188 316.10938 A 8.8707744 8.8707744 0 0 1 15.908203 315.5918 A 8.8707744 8.8707744 0 0 1 16.277344 303.12695 A 8.8707744 8.8707744 0 0 1 22.738281 300.68164 z M 543.42188 300.68164 A 8.8707744 8.8707744 0 0 1 549.42773 303.34766 L 549.7168 303.6582 A 8.8707744 8.8707744 0 0 1 549.05078 316.10938 A 8.8707744 8.8707744 0 0 1 536.5918 315.5918 A 8.8707744 8.8707744 0 0 1 536.95898 303.12695 A 8.8707744 8.8707744 0 0 1 543.42188 300.68164 z "
+       style="fill:none;stroke:#ffffff;stroke-width:1.65436292;stroke-miterlimit:10" />
+  </g>
+</svg>

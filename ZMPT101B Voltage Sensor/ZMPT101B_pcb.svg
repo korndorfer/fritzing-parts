@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18.285072mm"
+   height="46.593239mm"
+   viewBox="0 0 18.285072 46.593239"
+   version="1.1"
+   id="svg1190"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="ZMPT101B_pcb.svg">
+  <defs
+     id="defs1184">
+    <linearGradient
+       x2="-15.9121"
+       x1="-19.8887"
+       gradientTransform="rotate(-90,-32.47805,35.05515)"
+       y2="86.431602"
+       y1="86.431602"
+       id="SVGID_2_"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop483"
+         offset="0"
+         style="stop-color:#268842" />
+      <stop
+         id="stop485"
+         offset="0.3988"
+         style="stop-color:#33944C" />
+      <stop
+         id="stop487"
+         offset="1"
+         style="stop-color:#4BAF68" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9642176"
+     inkscape:cx="-32.07357"
+     inkscape:cy="88.050215"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="991"
+     inkscape:window-x="0"
+     inkscape:window-y="4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata1187">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-94.422942,-110.41767)">
+    <g
+       id="silkscreen">
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.25398982;stroke-miterlimit:10"
+         d="m 94.549937,110.54466 v 46.33925 h 18.031083 v -46.33925 z"
+         id="path1694"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="copper0">
+      <g
+         id="copper1">
+        <path
+           inkscape:label="#connector6pin"
+           style="fill:#f5bd18;stroke-width:0.35277808"
+           inkscape:connector-curvature="0"
+           d="m 105.32808,113.47542 c 0,0.43462 0.35207,0.78669 0.78669,0.78669 0.43427,0 0.78635,-0.35207 0.78635,-0.78669 0,-0.43392 -0.35208,-0.78634 -0.78635,-0.78634 -0.43462,3.5e-4 -0.78669,0.35242 -0.78669,0.78634 z m 1.25695,0 c 0,0.25964 -0.21026,0.4706 -0.47026,0.4706 -0.25999,0 -0.4706,-0.21096 -0.4706,-0.4706 0,-0.25965 0.21096,-0.4699 0.4706,-0.4699 0.25965,0 0.47026,0.21025 0.47026,0.4699 z"
+           gorn="0.9.1"
+           id="connector6in" />
+        <path
+           style="fill:#f5bd18;stroke-width:0.35277808"
+           inkscape:connector-curvature="0"
+           d="m 100.05106,113.47542 c 0,0.43462 0.35207,0.78669 0.78634,0.78669 0.43427,0 0.7867,-0.35207 0.7867,-0.78669 0,-0.43392 -0.35243,-0.78634 -0.7867,-0.78634 -0.43427,0 -0.78634,0.35242 -0.78634,0.78634 z m 1.2566,0 c 0,0.25964 -0.21061,0.4706 -0.47026,0.4706 -0.25964,0 -0.47025,-0.21096 -0.47025,-0.4706 0,-0.25965 0.21061,-0.4699 0.47025,-0.4699 0.25965,0 0.47026,0.21025 0.47026,0.4699 z"
+           gorn="0.9.2"
+           id="connector5pin-5" />
+        <path
+           id="connector3pin-9"
+           gorn="0.9.0"
+           d="m 105.17685,155.59946 c 0,0.43463 0.35207,0.7867 0.78669,0.7867 0.43392,0 0.78634,-0.35207 0.78634,-0.7867 0,-0.43391 -0.35207,-0.78634 -0.78634,-0.78634 -0.43462,3.6e-4 -0.78669,0.35243 -0.78669,0.78634 z m 1.2573,0 c 0,0.25965 -0.21096,0.47061 -0.47061,0.47061 -0.25964,0 -0.4706,-0.21096 -0.4706,-0.47061 0,-0.25964 0.21096,-0.4699 0.4706,-0.4699 0.25965,0 0.47061,0.21026 0.47061,0.4699 z"
+           inkscape:connector-curvature="0"
+           style="fill:#f5bd18;stroke-width:0.35277808" />
+        <path
+           id="connector2pin-9"
+           gorn="0.9.1"
+           d="m 102.63684,155.59946 c 0,0.43463 0.35208,0.7867 0.7867,0.7867 0.43427,0 0.78634,-0.35207 0.78634,-0.7867 0,-0.43391 -0.35207,-0.78634 -0.78634,-0.78634 -0.43462,3.6e-4 -0.7867,0.35243 -0.7867,0.78634 z m 1.25695,0 c 0,0.25965 -0.21025,0.47061 -0.47025,0.47061 -0.26,0 -0.47061,-0.21096 -0.47061,-0.47061 0,-0.25964 0.21096,-0.4699 0.47061,-0.4699 0.25964,0 0.47025,0.21026 0.47025,0.4699 z"
+           inkscape:connector-curvature="0"
+           style="fill:#f5bd18;stroke-width:0.35277808" />
+        <path
+           id="connector1pin-1"
+           gorn="0.9.2"
+           d="m 100.09684,155.59946 c 0,0.43463 0.35207,0.7867 0.78634,0.7867 0.43427,0 0.7867,-0.35207 0.7867,-0.7867 0,-0.43391 -0.35243,-0.78634 -0.7867,-0.78634 -0.43427,0 -0.78634,0.35243 -0.78634,0.78634 z m 1.2566,0 c 0,0.25965 -0.21061,0.47061 -0.47026,0.47061 -0.25964,0 -0.47025,-0.21096 -0.47025,-0.47061 0,-0.25964 0.21061,-0.4699 0.47025,-0.4699 0.25965,0 0.47026,0.21026 0.47026,0.4699 z"
+           inkscape:connector-curvature="0"
+           style="fill:#f5bd18;stroke-width:0.35277808" />
+        <path
+           style="fill:#f5bd18;stroke-width:0.35277808"
+           inkscape:connector-curvature="0"
+           d="m 107.7177,155.59946 c 0,0.43463 0.35207,0.7867 0.78669,0.7867 0.43392,0 0.78634,-0.35207 0.78634,-0.7867 0,-0.43391 -0.35207,-0.78634 -0.78634,-0.78634 -0.43462,3.6e-4 -0.78669,0.35243 -0.78669,0.78634 z m 1.2573,0 c 0,0.25965 -0.21096,0.47061 -0.47061,0.47061 -0.25964,0 -0.47061,-0.21096 -0.47061,-0.47061 0,-0.25964 0.21097,-0.4699 0.47061,-0.4699 0.25965,0 0.47061,0.21026 0.47061,0.4699 z"
+           gorn="0.9.0"
+           id="connector4pin-4" />
+      </g>
+    </g>
+  </g>
+</svg>

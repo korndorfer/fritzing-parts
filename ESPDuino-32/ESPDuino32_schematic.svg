@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1.5in"
+   viewBox="0 0 38.1 58.42"
+   x="0in"
+   y="0in"
+   height="2.3in"
+   id="svg2"
+   gorn="0"
+   version="1.2"
+   sodipodi:docname="ESPDuino32_schematic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="991"
+     id="namedview223"
+     showgrid="false"
+     inkscape:zoom="2.5767103"
+     inkscape:cx="44.436122"
+     inkscape:cy="110.40005"
+     inkscape:window-x="0"
+     inkscape:window-y="4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="schematic" />
+  <metadata
+     id="metadata196">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs194" />
+  <desc
+     id="desc4">
+    <referenceFile>arduino_Uno_Rev3(fix)_schematic.svg</referenceFile>
+  </desc>
+  <rect
+     style="fill:none;stroke:none;stroke-width:0"
+     width="0.246944"
+     class="terminal"
+     x="-4.885972"
+     height="0.246944"
+     y="48.877369"
+     id="rect1128"
+     gorn="0.96" />
+  <line
+     y1="46.355003"
+     y2="46.355003"
+     class="pin"
+     x1="-4.6390281"
+     x2="0.44096997"
+     style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+     id="line1130"
+     gorn="0.89" />
+  <rect
+     width="0.246944"
+     class="terminal"
+     x="-4.885972"
+     height="0.246944"
+     y="46.231533"
+     id="rect1132"
+     gorn="0.90"
+     style="fill:none;stroke:none;stroke-width:0" />
+  <rect
+     width="0.246944"
+     class="terminal"
+     x="-4.885972"
+     height="0.246944"
+     y="46.231533"
+     id="rect1136"
+     gorn="0.93"
+     style="fill:none;stroke:none;stroke-width:0" />
+  <g
+     id="schematic">
+    <rect
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="0.3175"
+       gorn="0.3"
+       id="rect7"
+       style="stroke-linecap:round"
+       y="5.23875"
+       height="47.942501"
+       x="5.23875"
+       class="interior rect"
+       width="27.622499" />
+    <line
+       gorn="0.4"
+       id="connectorIO0pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="8.043335"
+       y1="8.043335" />
+    <text
+       gorn="0.5"
+       id="text10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="8.2902355"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO0</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.6"
+       id="connector61terminal"
+       y="7.9198346"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.7"
+       id="connectorIO2pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="10.583335"
+       y1="10.583335" />
+    <text
+       gorn="0.8"
+       id="text14"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="10.830235"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO2</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.9"
+       id="connector62terminal"
+       y="10.459834"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.10"
+       id="connectorIO4pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="13.123335"
+       y1="13.123335" />
+    <text
+       gorn="0.11"
+       id="text18"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="13.370235"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO4</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.12"
+       id="connector63terminal"
+       y="12.999835"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.13"
+       id="connectorIO35pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="15.663333"
+       y1="15.663333" />
+    <text
+       gorn="0.14"
+       id="text22"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="15.910232"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO35</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.15"
+       id="connector64terminal"
+       y="15.539832"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.16"
+       id="connectorIO34pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="18.203331"
+       y1="18.203331" />
+    <text
+       gorn="0.17"
+       id="text26"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="18.450232"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO34</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.18"
+       id="connector65terminal"
+       y="18.079832"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.19"
+       id="connectorIO36pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="20.743332"
+       y1="20.743332" />
+    <text
+       gorn="0.20"
+       id="text30"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="20.990231"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO36</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.21"
+       id="connector66terminal"
+       y="20.619831"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.22"
+       id="connectorIO39pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="23.283331"
+       y1="23.283331" />
+    <text
+       gorn="0.23"
+       id="text34"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="23.530231"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO39</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.24"
+       id="connector67terminal"
+       y="23.159832"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.25"
+       id="connectorIO13pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="25.823332"
+       y1="25.823332" />
+    <text
+       gorn="0.26"
+       id="text38"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="26.07023"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO13</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.27"
+       id="connector68terminal"
+       y="25.699831"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.28"
+       id="connectorIO12pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="28.363331"
+       y1="28.363331" />
+    <text
+       gorn="0.29"
+       id="text42"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="28.610231"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO12</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.30"
+       id="connector51terminal"
+       y="28.239832"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.31"
+       id="connectorIO14pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="30.903332"
+       y1="30.903332" />
+    <text
+       gorn="0.32"
+       id="text46"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="31.15023"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO14</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.33"
+       id="connector52terminal"
+       y="30.779831"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.34"
+       id="connectorIO27pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="33.443333"
+       y1="33.443333" />
+    <text
+       gorn="0.35"
+       id="text50"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="33.690231"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO27</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.36"
+       id="connector53terminal"
+       y="33.319832"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.37"
+       id="connectorIO16pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="35.98333"
+       y1="35.98333" />
+    <text
+       gorn="0.38"
+       id="text54"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="36.230232"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO16</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.39"
+       id="connector54terminal"
+       y="35.859833"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.40"
+       id="connectorIO17pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="38.523331"
+       y1="38.523331" />
+    <text
+       gorn="0.41"
+       id="text58"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="38.770233"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO17</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.42"
+       id="connector55terminal"
+       y="38.39983"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.43"
+       id="connector41pin"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="41.063332"
+       y1="41.063332" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.44"
+       id="connector41terminal"
+       y="40.939831"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.45"
+       id="connectorIO25pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="41.063332"
+       y1="41.063332" />
+    <text
+       gorn="0.46"
+       id="text64"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="41.31023"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO25</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.47"
+       id="connector56terminal"
+       y="40.939831"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.48"
+       id="connector43pin"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="8.043335"
+       y1="8.043335" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.49"
+       id="connector43terminal"
+       y="7.9198346"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.50"
+       id="connectorRSTApin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="8.043335"
+       y1="8.043335" />
+    <text
+       gorn="0.51"
+       id="text70"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="8.2902355"
+       x="5.69736"
+       font-size="0.348465"
+       class="text">RESET A</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.52"
+       id="connector85terminal"
+       y="7.9198346"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.53"
+       id="connectorRSTBpin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="10.583335"
+       y1="10.583335" />
+    <text
+       gorn="0.54"
+       id="text74"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="10.830235"
+       x="5.69736"
+       font-size="0.348465"
+       class="text">RESET B</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.55"
+       id="connector49terminal"
+       y="10.459834"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.56"
+       id="connectorTX0pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="13.123335"
+       y1="13.123335" />
+    <text
+       gorn="0.57"
+       id="text78"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="13.370235"
+       x="5.69736"
+       font-size="0.348465"
+       class="text">TX0</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.58"
+       id="connector58terminal"
+       y="12.999835"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.59"
+       id="connectorRX0pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="15.663333"
+       y1="15.663333" />
+    <text
+       gorn="0.60"
+       id="text82"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="15.910232"
+       x="5.69736"
+       font-size="0.348465"
+       class="text">RX0</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.61"
+       id="connector84terminal"
+       y="15.539832"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.62"
+       id="connectorSD0pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="18.097496"
+       y1="18.097496" />
+    <text
+       gorn="0.63"
+       id="text86"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="18.344395"
+       x="5.69736"
+       font-size="0.348465"
+       class="text">SD0</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.64"
+       id="connector0terminal"
+       y="17.973995"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.65"
+       id="connectorSD1pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="20.637495"
+       y1="20.637495" />
+    <text
+       gorn="0.66"
+       id="text90"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="20.884396"
+       x="5.69736"
+       font-size="0.348465"
+       class="text">SD1</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.67"
+       id="connector1terminal"
+       y="20.513996"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.68"
+       id="connectorSD2pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="23.177496"
+       y1="23.177496" />
+    <text
+       gorn="0.69"
+       id="text94"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="23.424395"
+       x="5.69736"
+       font-size="0.348465"
+       class="text">SD2</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.70"
+       id="connector2terminal"
+       y="23.053995"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.71"
+       id="connectorSD3pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="25.717495"
+       y1="25.717495" />
+    <text
+       gorn="0.72"
+       id="text98"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="25.964396"
+       x="5.69736"
+       font-size="0.348465"
+       class="text">SD3</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.73"
+       id="connector3terminal"
+       y="25.593996"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.74"
+       id="connector48pin"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="28.257496"
+       y1="28.257496" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.75"
+       id="connector48terminal"
+       y="28.133995"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.76"
+       id="connector45pin"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="28.257496"
+       y1="28.257496" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.77"
+       id="connector45terminal"
+       y="28.133995"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.78"
+       id="connector4pin"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="28.257496"
+       y1="28.257496" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.79"
+       id="connector4terminal"
+       y="28.133995"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.80"
+       id="connector39pin"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="28.257496"
+       y1="28.257496" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.81"
+       id="connector39terminal"
+       y="28.133995"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.82"
+       id="connector47pin"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="28.257496"
+       y1="28.257496" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.83"
+       id="connector47terminal"
+       y="28.133995"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.84"
+       id="connector42pin"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="28.257496"
+       y1="28.257496" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.85"
+       id="connector42terminal"
+       y="28.133995"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.86"
+       id="connectorSDApin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="28.257496"
+       y1="28.257496" />
+    <text
+       gorn="0.87"
+       id="text114"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="28.504395"
+       x="5.69736"
+       font-size="0.348465"
+       class="text">SDA</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.88"
+       id="connector59terminal"
+       y="28.133995"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.89"
+       id="connector5pin"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="30.797497"
+       y1="30.797497" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.90"
+       id="connector5terminal"
+       y="30.673996"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.91"
+       id="connectorSCLpin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="30.797497"
+       y1="30.797497" />
+    <text
+       gorn="0.92"
+       id="text120"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="31.044395"
+       x="5.69736"
+       font-size="0.348465"
+       class="text">SCL</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.93"
+       id="connector60terminal"
+       y="30.673996"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.94"
+       id="connectorCMDpin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="49.000839"
+       y1="49.000839" />
+    <text
+       gorn="0.95"
+       id="text124"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="49.25285"
+       x="5.69736"
+       font-size="0.348465"
+       class="text">CMD</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.96"
+       id="connector91terminal"
+       y="48.665668"
+       height="0.246944"
+       x="-0.123472"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.97"
+       id="connector88pin"
+       style="stroke-linecap:round"
+       stroke="none"
+       x2="20.32"
+       fill="none"
+       stroke-width="0"
+       x1="20.32"
+       class="pin"
+       y2="58.296501"
+       y1="53.216499" />
+    <rect
+       gorn="0.98"
+       id="connector88terminal"
+       y="58.296501"
+       height="0.246944"
+       x="20.196501"
+       stroke="none"
+       fill="none"
+       stroke-width="0"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.99"
+       id="connector57pin"
+       style="stroke-linecap:round"
+       stroke="none"
+       x2="20.32"
+       fill="none"
+       stroke-width="0"
+       x1="20.32"
+       class="pin"
+       y2="58.296501"
+       y1="53.216499" />
+    <rect
+       gorn="0.100"
+       id="connector57terminal"
+       y="58.296501"
+       height="0.246944"
+       x="20.196501"
+       stroke="none"
+       fill="none"
+       stroke-width="0"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.101"
+       id="connector44pin"
+       style="stroke-linecap:round"
+       stroke="none"
+       x2="20.32"
+       fill="none"
+       stroke-width="0"
+       x1="20.32"
+       class="pin"
+       y2="58.296501"
+       y1="53.216499" />
+    <rect
+       gorn="0.102"
+       id="connector44terminal"
+       y="58.296501"
+       height="0.246944"
+       x="20.196501"
+       stroke="none"
+       fill="none"
+       stroke-width="0"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.103"
+       id="connector50pin"
+       style="stroke-linecap:round"
+       stroke="none"
+       x2="20.32"
+       fill="none"
+       stroke-width="0"
+       x1="20.32"
+       class="pin"
+       y2="58.296501"
+       y1="53.216499" />
+    <rect
+       gorn="0.104"
+       id="connector50terminal"
+       y="58.296501"
+       height="0.246944"
+       x="20.196501"
+       stroke="none"
+       fill="none"
+       stroke-width="0"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.105"
+       id="connectorGNDBpin"
+       style="stroke-linecap:round"
+       stroke="#787878"
+       x2="20.32"
+       fill="none"
+       stroke-width="0.246944"
+       x1="20.32"
+       class="pin"
+       y2="58.296501"
+       y1="53.216499" />
+    <rect
+       gorn="0.107"
+       id="connector89terminal"
+       y="58.296501"
+       height="0.246944"
+       x="20.196501"
+       stroke="none"
+       fill="none"
+       stroke-width="0"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.108"
+       id="connector3V3pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="11.641667"
+       x1="11.641667"
+       class="pin"
+       y2="5.2034702"
+       y1="0.123472" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.110"
+       id="connector86terminal"
+       y="-0.123472"
+       height="0.246944"
+       x="11.518167"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.111"
+       id="connector40pin"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       x2="16.721666"
+       x1="16.721666"
+       class="pin"
+       y2="5.2034702"
+       y1="0.123472" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.112"
+       id="connector40terminal"
+       y="-0.123472"
+       height="0.246944"
+       x="16.598166"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.113"
+       id="connector46pin"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       x2="16.721666"
+       x1="16.721666"
+       class="pin"
+       y2="5.2034702"
+       y1="0.123472" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.114"
+       id="connector46terminal"
+       y="-0.123472"
+       height="0.246944"
+       x="16.598166"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.115"
+       id="connector5VApin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="16.721666"
+       x1="16.721666"
+       class="pin"
+       y2="5.2034702"
+       y1="0.123472" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.117"
+       id="connector87terminal"
+       y="-0.123472"
+       height="0.246944"
+       x="16.598166"
+       class="terminal"
+       width="0.246944" />
+    <line
+       gorn="0.118"
+       id="connector5VBpin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="21.801666"
+       x1="21.801666"
+       class="pin"
+       y2="5.2034702"
+       y1="0.123472" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       gorn="0.120"
+       id="connector90terminal"
+       y="-0.123472"
+       height="0.246944"
+       x="21.678165"
+       class="terminal"
+       width="0.246944" />
+    <text
+       gorn="0.121"
+       id="label"
+       style="font-size:0.42313901px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0"
+       y="24.853132"
+       x="19.208799"
+       font-size="0.423139"
+       class="text">
+      <tspan
+         id="tspan1030"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">ESPDuino-32</tspan>
+    </text>
+    <text
+       transform="rotate(-90)"
+       class="text"
+       font-size="0.348465"
+       x="-52.798454"
+       y="14.236336"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text1032"
+       gorn="0.95">GND A</text>
+    <text
+       transform="rotate(-90)"
+       gorn="0.95"
+       id="text1034"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="20.586338"
+       x="-52.798454"
+       font-size="0.348465"
+       class="text">GND B</text>
+    <text
+       transform="rotate(-90)"
+       class="text"
+       font-size="0.348465"
+       x="-52.798454"
+       y="26.936344"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text1036"
+       gorn="0.95">GND C</text>
+    <line
+       y1="53.216499"
+       y2="58.296501"
+       class="pin"
+       x1="13.969997"
+       x2="13.969997"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       id="connectorGNDApin"
+       gorn="0.105" />
+    <line
+       gorn="0.105"
+       id="connectorGNDCpin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="26.670006"
+       x1="26.670006"
+       class="pin"
+       y2="58.296501"
+       y1="53.216499" />
+    <text
+       gorn="0.95"
+       id="text1042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="11.8693"
+       x="-6.7609534"
+       font-size="0.348465"
+       class="text"
+       transform="rotate(-90)">3V3</text>
+    <text
+       transform="rotate(-90)"
+       class="text"
+       font-size="0.348465"
+       x="-6.7609534"
+       y="16.975101"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text1044"
+       gorn="0.95">5V</text>
+    <text
+       gorn="0.95"
+       id="text1046"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="22.018955"
+       x="-6.7609534"
+       font-size="0.348465"
+       class="text"
+       transform="rotate(-90)">5V</text>
+    <line
+       y1="0.123472"
+       y2="5.2034702"
+       class="pin"
+       x1="27.093338"
+       x2="27.093338"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       id="connectorVINpin"
+       gorn="0.118" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       width="0.246944"
+       class="terminal"
+       x="26.969837"
+       height="0.246944"
+       y="-0.123472"
+       id="rect1050"
+       gorn="0.120" />
+    <text
+       transform="rotate(-90)"
+       class="text"
+       font-size="0.348465"
+       x="-6.7609534"
+       y="27.310627"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text1052"
+       gorn="0.95">VIN</text>
+    <line
+       y1="43.709167"
+       y2="43.709167"
+       class="pin"
+       x1="0.123472"
+       x2="5.2034702"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       id="connectorCLKpin"
+       gorn="0.94" />
+    <text
+       class="text"
+       font-size="0.348465"
+       x="5.69736"
+       y="43.961178"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text1056"
+       gorn="0.95">CLK</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       width="0.246944"
+       class="terminal"
+       x="-0.123472"
+       height="0.246944"
+       y="43.585697"
+       id="rect1058"
+       gorn="0.96" />
+    <line
+       y1="43.709167"
+       y2="43.709167"
+       class="pin"
+       x1="32.8965"
+       x2="37.976501"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       id="line1060"
+       gorn="0.43" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       width="0.246944"
+       class="terminal"
+       x="37.976501"
+       height="0.246944"
+       y="43.585667"
+       id="rect1062"
+       gorn="0.44" />
+    <line
+       y1="43.709167"
+       y2="43.709167"
+       class="pin"
+       x1="32.8965"
+       x2="37.976501"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       id="connectorIO26pin"
+       gorn="0.45" />
+    <text
+       class="text"
+       font-size="0.348465"
+       x="32.402599"
+       y="43.956066"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text1066"
+       gorn="0.46">IO26</text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0"
+       width="0.246944"
+       class="terminal"
+       x="37.976501"
+       height="0.246944"
+       y="43.585667"
+       id="rect1068"
+       gorn="0.47" />
+    <line
+       y1="33.443333"
+       y2="33.443333"
+       class="pin"
+       x1="0.123472"
+       x2="5.2034702"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       id="connectorIO18pin"
+       gorn="0.68" />
+    <text
+       class="text"
+       font-size="0.348465"
+       x="5.69736"
+       y="33.695686"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text1072"
+       gorn="0.69">IO18</text>
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="-0.123472"
+       height="0.246944"
+       y="33.319862"
+       id="rect1074"
+       gorn="0.70"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       y1="35.98333"
+       y2="35.98333"
+       class="pin"
+       x1="0.123472"
+       x2="5.2034702"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       id="connectorIO19pin"
+       gorn="0.71" />
+    <text
+       class="text"
+       font-size="0.348465"
+       x="5.69736"
+       y="36.235683"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text1078"
+       gorn="0.72">IO19</text>
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="-0.123472"
+       height="0.246944"
+       y="35.859859"
+       id="rect1080"
+       gorn="0.73"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       y1="38.523331"
+       y2="38.523331"
+       class="pin"
+       x1="0.123472"
+       x2="5.2034702"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       id="line1082"
+       gorn="0.74" />
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="-0.123472"
+       height="0.246944"
+       y="38.39986"
+       id="rect1084"
+       gorn="0.75"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       y1="38.523331"
+       y2="38.523331"
+       class="pin"
+       x1="0.123472"
+       x2="5.2034702"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       id="line1086"
+       gorn="0.76" />
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="-0.123472"
+       height="0.246944"
+       y="38.39986"
+       id="rect1088"
+       gorn="0.77"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       y1="38.523331"
+       y2="38.523331"
+       class="pin"
+       x1="0.123472"
+       x2="5.2034702"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       id="line1090"
+       gorn="0.78" />
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="-0.123472"
+       height="0.246944"
+       y="38.39986"
+       id="rect1092"
+       gorn="0.79"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       y1="38.523331"
+       y2="38.523331"
+       class="pin"
+       x1="0.123472"
+       x2="5.2034702"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       id="line1094"
+       gorn="0.80" />
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="-0.123472"
+       height="0.246944"
+       y="38.39986"
+       id="rect1096"
+       gorn="0.81"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       y1="38.523331"
+       y2="38.523331"
+       class="pin"
+       x1="0.123472"
+       x2="5.2034702"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       id="line1098"
+       gorn="0.82" />
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="-0.123472"
+       height="0.246944"
+       y="38.39986"
+       id="rect1100"
+       gorn="0.83"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       y1="38.523331"
+       y2="38.523331"
+       class="pin"
+       x1="0.123472"
+       x2="5.2034702"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       id="line1102"
+       gorn="0.84" />
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="-0.123472"
+       height="0.246944"
+       y="38.39986"
+       id="rect1104"
+       gorn="0.85"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       y1="38.523331"
+       y2="38.523331"
+       class="pin"
+       x1="0.123472"
+       x2="5.2034702"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       id="connectorIO23pin"
+       gorn="0.86" />
+    <text
+       class="text"
+       font-size="0.348465"
+       x="5.69736"
+       y="38.775684"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text1108"
+       gorn="0.87">IO23</text>
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="-0.123472"
+       height="0.246944"
+       y="38.39986"
+       id="rect1110"
+       gorn="0.88"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       y1="41.063332"
+       y2="41.063332"
+       class="pin"
+       x1="0.123472"
+       x2="5.2034702"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       id="line1112"
+       gorn="0.89" />
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="-0.123472"
+       height="0.246944"
+       y="40.939861"
+       id="rect1114"
+       gorn="0.90"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       y1="41.063332"
+       y2="41.063332"
+       class="pin"
+       x1="0.123472"
+       x2="5.2034702"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       id="connectorIO5pin"
+       gorn="0.91" />
+    <text
+       class="text"
+       font-size="0.348465"
+       x="5.69736"
+       y="41.315685"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text1118"
+       gorn="0.92">IO5</text>
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="-0.123472"
+       height="0.246944"
+       y="40.939861"
+       id="rect1120"
+       gorn="0.93"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       gorn="0.94"
+       id="connectorIO15pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="5.2034702"
+       x1="0.123472"
+       class="pin"
+       y2="46.355003"
+       y1="46.355003" />
+    <line
+       y1="46.355003"
+       y2="46.355003"
+       class="pin"
+       x1="32.8965"
+       x2="37.976501"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       id="line1138"
+       gorn="0.43" />
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="37.976501"
+       height="0.246944"
+       y="46.231533"
+       id="rect1140"
+       gorn="0.44"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       y1="46.355003"
+       y2="46.355003"
+       class="pin"
+       x1="32.8965"
+       x2="37.976501"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       id="connectorIO33pin"
+       gorn="0.45" />
+    <text
+       class="text"
+       font-size="0.348465"
+       x="32.402599"
+       y="46.607357"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text1144"
+       gorn="0.46">IO33</text>
+    <rect
+       width="0.246944"
+       class="terminal"
+       x="37.976501"
+       height="0.246944"
+       y="46.231533"
+       id="rect1146"
+       gorn="0.47"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       gorn="0.43"
+       id="line1148"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="49.000839"
+       y1="49.000839" />
+    <rect
+       gorn="0.44"
+       id="rect1150"
+       y="48.877369"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <line
+       gorn="0.45"
+       id="connectorIO32pin"
+       style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+       x2="37.976501"
+       x1="32.8965"
+       class="pin"
+       y2="49.000839"
+       y1="49.000839" />
+    <text
+       gorn="0.46"
+       id="text1154"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       y="49.253193"
+       x="32.402599"
+       font-size="0.348465"
+       class="text">IO32</text>
+    <rect
+       gorn="0.47"
+       id="rect1156"
+       y="48.877369"
+       height="0.246944"
+       x="37.976501"
+       class="terminal"
+       width="0.246944"
+       style="fill:none;stroke:none;stroke-width:0" />
+    <text
+       class="text"
+       font-size="0.348465"
+       x="5.69736"
+       y="46.607014"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       id="text1158"
+       gorn="0.95">IO15</text>
+  </g>
+</svg>

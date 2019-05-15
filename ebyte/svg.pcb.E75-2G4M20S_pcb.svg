@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16.4 30.427544"
+   gorn="0"
+   height="30.427544mm"
+   width="16.4mm"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="prefix0000_91e5b914bd503bf85dbf7a975de2c9a6_4_pcb.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="991"
+     id="namedview42"
+     showgrid="false"
+     inkscape:zoom="2.0521429"
+     inkscape:cx="83.912546"
+     inkscape:cy="39.958229"
+     inkscape:window-x="0"
+     inkscape:window-y="4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <desc
+     id="desc2">
+    <referenceFile>E75-2G4M20S_pcb.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="silkscreen"
+     gorn="0.2.0"
+     transform="translate(0.19999985,0.25344758)">
+    <rect
+       id="rect1115"
+       width="16.197842"
+       height="30.225386"
+       x="-0.098920822"
+       y="-0.15236855"
+       style="opacity:0.98000004;fill:none;fill-opacity:0.99612403;stroke:#ffffff;stroke-width:0.20215806;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.2.0.0" />
+  </g>
+  <g
+     id="copper1"
+     transform="translate(14.001862,14.955912)">
+    <path
+       id="connector10pin"
+       d="M -0.7517282,15.201866 V 13.37336 h -0.764811 v 1.828506 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.16451979;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector11pin"
+       d="M -2.0217282,15.201866 V 13.37336 h -0.764811 v 1.828506 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.16442347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector12pin"
+       d="M -3.2917272,15.201866 V 13.37336 H -4.056538 v 1.828506 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.16442347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.2"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector13pin"
+       d="M -4.5617261,15.201866 V 13.37336 H -5.326537 v 1.828506 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.16442347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.3"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector14pin"
+       d="M -5.8317271,15.201866 V 13.37336 H -6.596538 v 1.828506 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.16442347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.4"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector15pin"
+       d="M -7.1017279,15.201866 V 13.37336 h -0.7648112 v 1.828506 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.16442347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.5"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector16pin"
+       d="M -8.371729,15.201866 V 13.37336 h -0.7648109 v 1.828506 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.16442347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.6"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector17pin"
+       d="M -9.641729,15.201866 V 13.37336 h -0.764811 v 1.828506 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.16442347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.7"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector18pin"
+       d="M -10.91173,15.201866 V 13.37336 h -0.764811 v 1.828506 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.16442347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.8"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector9pin"
+       d="m 2.1805538,13.045406 v -0.76481 H 0.3603119 v 0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.9"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector8pin"
+       d="M 2.1805538,11.775194 V 11.010385 H 0.3603119 v 0.764809 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.10"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector7pin"
+       d="M 2.1805538,10.505505 V 9.740695 H 0.3603119 v 0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.11"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector6pin"
+       d="M 2.1805538,9.235305 V 8.470495 H 0.3603119 v 0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.12"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector5pin"
+       d="m 2.1805538,7.965615 -0.036562,-0.76481 h -1.78368 v 0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.13"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector4pin"
+       d="M 2.1805538,6.695405 V 5.930595 H 0.3603119 v 0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.14"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector3pin"
+       d="M 2.1805538,5.425199 V 4.660389 H 0.3603119 v 0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.15"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector2pin"
+       d="M 2.1805538,4.155509 V 3.390699 H 0.3603119 v 0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.16"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector01pad"
+       d="M 2.1805538,2.885302 V 2.120492 H 0.3603119 v 0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.17"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector27pin"
+       d="m -13.784278,2.120492 v 0.76481 h 1.820242 v -0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.18"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector26pin"
+       d="m -13.784278,3.390698 v 0.76481 h 1.820242 v -0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.19"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector25pin"
+       d="m -13.784278,4.660389 v 0.764809 h 1.820242 V 4.660389 Z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.20"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector24pin"
+       d="m -13.784278,5.930595 v 0.76481 h 1.820242 v -0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.21"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector23pin"
+       d="m -13.784278,7.200285 0.03656,0.76481 h 1.783678 v -0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.22"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector22pin"
+       d="m -13.784278,8.470495 v 0.76481 h 1.820242 v -0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.23"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector21pin"
+       d="m -13.784278,9.740695 v 0.76481 h 1.820242 v -0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.24"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector20pin"
+       d="m -13.784278,11.010385 v 0.764809 h 1.820242 v -0.764809 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.25"
+       inkscape:connector-curvature="0" />
+    <path
+       id="connector19pin"
+       d="m -13.784278,12.280596 v 0.76481 h 1.820242 v -0.76481 z"
+       style="opacity:0.98000004;fill:#f7bd13;fill-opacity:0.98039216;stroke:none;stroke-width:2.00455236;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       gorn="0.3.0.26"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
